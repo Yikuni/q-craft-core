@@ -1,0 +1,7 @@
+name: QCraftCore
+version: '${project.version}'
+main: com.yikuni.qcraftcore.QCraftCore
+api-version: '1.20'
+
+commands:
+  qcraft:
